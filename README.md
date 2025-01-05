@@ -5,9 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=sp3c7r4&label=Profile%20views&color=0e75b6&style=flat" alt="sp3c7r4" />
 </p>
 
-- 🌱 I’m currently learning **how to build a scalable microservices architecture**.
+- 🌱 I’m currently learning **Web3 and Golang Fiber**.
 - 📝 I regularly write articles on [https://sp3c7r4.github.io](https://sp3c7r4.github.io).
-- 💬 Ask me about **Express and Gin Framework 🤭**.
+- 💬 Ask me about **Express and Fiber Framework 🤭**.
 - 📫 How to reach me: **sarafasatar@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
